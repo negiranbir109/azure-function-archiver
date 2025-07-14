@@ -8,7 +8,7 @@ from shared.utils import load_env_config, load_archive_map, resolve_archive_dest
 
 def main(event: func.EventGridEvent):
     try:
-        # 🔧 Load config from file specified in App Setting
+        # 🔧 Load config from file specified in App Settings
         config_path = os.environ["ConfigPath"]
         load_env_config(config_path)
         archive_map = load_archive_map()
