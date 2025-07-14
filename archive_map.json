@@ -1,0 +1,13 @@
+{
+  "audit_log_kpmgukdsp": ["SAP_DSP_CONTAINER", "audit"],
+  "event_log_kpmgukdsp": ["SAP_DSP_CONTAINER", "event"],
+  "app_log_kpmgukdsp": ["SAP_DSP_CONTAINER", "spaces-db"],
+  "audit_log_kpmgukcis": ["SAP_CIS_CONTAINER", "audit"],
+  "event_log_kpmgukcis": ["SAP_CIS_CONTAINER", "event"],
+  "audit_log_kpmgukiag": ["SAP_IAG_CONTAINER", "audit"],
+  "event_log_kpmgukiag": ["SAP_IAG_CONTAINER", "event"],
+  "audit_log_kpmgukmrm": ["SAP_MRM_CONTAINER", "audit"],
+  "event_log_kpmgukmrm": ["SAP_MRM_CONTAINER", "event"],
+  "audit_log_kpmguks4": ["SAP_BTP_ABAP_CONTAINER", "audit"],
+  "event_log_kpmguks4": ["SAP_BTP_ABAP_CONTAINER", "event"]
+}
