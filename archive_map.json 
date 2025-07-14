@@ -1,0 +1,23 @@
+{
+  "sap-dsp": {
+    "audit_log_kpmgukdsp": "audit",
+    "event_log_kpmgukdsp": "event",
+    "app_log_kpmgukdsp": "spaces-db"
+  },
+  "sap-cis": {
+    "audit_log_kpmgukcis": "audit",
+    "event_log_kpmgukcis": "event"
+  },
+  "sap-iag": {
+    "audit_log_kpmgukiag": "audit",
+    "event_log_kpmgukiag": "event"
+  },
+  "sap-mrm": {
+    "audit_log_kpmgukmrm": "audit",
+    "event_log_kpmgukmrm": "event"
+  },
+  "sap-btp-abap": {
+    "audit_log_kpmguks4": "audit",
+    "event_log_kpmguks4": "event"
+  }
+}
